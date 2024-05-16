@@ -1,0 +1,7 @@
+npm init
+npm install --save-dev nodemon
+npm install express --save
+
+npm install mongodb --save
+
+mongodb+srv://admin:admin@cluster0.tsod3fd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
